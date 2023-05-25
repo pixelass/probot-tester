@@ -2,4 +2,4 @@
 
 This is a demo for an app that I'm working on.
 
-**WIP**
+**WIP**. Please be patient.
