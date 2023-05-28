@@ -1,7 +1,7 @@
 export function hello(name = "World") {
 	const date = new Date();
 	const day = date.getDay();
-	const days = ["Mon", "Tues", "Wed", "Thu", "Fri", "Sat", "Sun"];
+	const days = ["Mon", "Tues", "Wen", "Thus", "Fri", "Sat", "Sun"];
 	return `Hello ${name}, today is ${days[day]}!`;
 }
 
