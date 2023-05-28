@@ -24,7 +24,6 @@ function myFunction() {
   console.log("Hello!");
 }
 
-
 let person = { name: "John", age: 25 };
 console.log(person.address.city);
 
