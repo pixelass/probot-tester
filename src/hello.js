@@ -6,7 +6,7 @@ export function hello(name = "World") {
 }
 
 export function bye(name = "World") {
-	return `Good bye ${name}, hope to see you soon.`;
+	return "Good bye ${name}, hope to see you soon.";
 }
 
 export function shakeHand(name) {
